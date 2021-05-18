@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Mon May 17 16:28:26 WEST 2021:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0179-7af1-5223-000003a2d9b8 
+Tue May 18 20:11:33 WEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0179-80e3-f516-00000320bd80 
 on database directory /home/big/Desktop/Aulas/Projeto/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
 Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
 java.vendor=Ubuntu
@@ -8,6 +8,6 @@ java.runtime.version=11.0.11+9-Ubuntu-0ubuntu2.20.04
 user.dir=/home/big/Desktop/Aulas/Projeto
 os.name=Linux
 os.arch=amd64
-os.version=5.8.0-41-generic
+os.version=5.8.0-53-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
